@@ -8,7 +8,7 @@
 
 我的每个项目的发行版都会用数字证书进行签名（当然是自己做的证书，权威CA的证书买不起）
 
-如果您相信我，您可以在[这里](https://github.com/acgnfun/acgnfun/releases/download/v0.1.0/Certificate.crt)找到我颁发的根证书，将该证书安装到您的计算机上来确认您获取到的软件是否为本人构建
+如果您相信我，您可以在[这里](https://github.com/acgnfun/acgnfun/releases/download/v0.1.0/Certificate.cer)找到我颁发的根证书，将该证书安装到您的计算机上来确认您获取到的软件是否为本人构建
 
 **本人声称，您安装在计算机上的证书只会用于检测软件来源，不会被用于一些恶意行为**
 
